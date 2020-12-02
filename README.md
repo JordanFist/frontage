@@ -1,4 +1,4 @@
-# Arbalet Frontage backend
+# Arbalet Frontage backend 
 
 This is the backend of Arbalet Frontage, the [pixelated building facade of Bordeaux University](https://vimeo.com/arbalet/frontage). It drives 4 rows x 19 columns of RGB Art-Net/DMX fixtures. See [Network schematics](frontage.svg).
 
